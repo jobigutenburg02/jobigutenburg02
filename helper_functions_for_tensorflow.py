@@ -149,7 +149,7 @@ def create_tensorboard_callback(dir_name, experiment_name):
   print(f"Saving TensorBoard log files to: {log_dir}")
   return tensorboard_callback
 
-def create_tensorboard_callback(dir_name, experiment_name):
+def create_tensorboard_callback_2(dir_name, experiment_name):
   """
   Creates a TensorBoard callback instand to store log files.
 
