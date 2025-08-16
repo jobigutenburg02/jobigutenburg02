@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently building machine learning models using TensorFlow.
 
-- 📫 How to reach me **jbros2513@gmail.com**
+- 📫 How to reach me **johanbiju02@gmail.com**
